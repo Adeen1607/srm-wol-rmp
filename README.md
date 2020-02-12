@@ -1,0 +1,2 @@
+# srm-wol-rmp
+SRM RMP CAMPUS STUDENT
